@@ -1,8 +1,8 @@
 module.exports = {
-  title: `zoomkoding.com`,
+  title: `leewoobin`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
+  siteUrl: `https://leewoobin.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      github: ``, // `https://github.com/woobinn`,
+      discord: ``, // `https://discord.com/users/394950628746723328`,
+      email: ``, // `lee@leewoobin.com`,
     },
   },
 
