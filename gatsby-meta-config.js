@@ -1,6 +1,6 @@
 module.exports = {
-  title: `leewoobin`,
-  description: `줌코딩의 개발일기`,
+  title: `leewoobin.com`,
+  description: `leewoobin`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://leewoobin.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -11,15 +11,14 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `이우빈`,
     bio: {
-      role: `개발자`,
+      role: `대학생`,
       description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://github.com/woobinn`,
-      discord: ``, // `https://discord.com/users/394950628746723328`,
       email: ``, // `lee@leewoobin.com`,
     },
   },
@@ -43,8 +42,8 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2021.09 ~',
+        activity: 'S',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
